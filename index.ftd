@@ -1,5 +1,5 @@
 -- ftd.background-image bg-image: 
-src: $assets.files.images.Polygon.svg 
+src: $assets.files.assets.images.Polygon.svg 
 repeat: no-repeat 
 position: center 
 
@@ -21,7 +21,7 @@ width: fill-container
 align-content: center
 
 -- ftd.image:
-src: $assets.files.images.me.jpeg
+src: $assets.files.assets.images.me.jpeg
 width.fixed.px: 350
 height.fixed.px: 350
 border-radius.px: 350
@@ -35,21 +35,21 @@ padding-vertical.px: 30
 padding-horizontal.px: 200
 
 -- ftd.image:
-src: $assets.files.images.wp.png
+src: $assets.files.assets.images.wp.png
 width.fixed.px: 30
 height.fixed.px: 30
 link: https://wa.me/9831070453
 open-in-new-tab: true 
 
 -- ftd.image:
-src: $assets.files.images.insta.png
+src: $assets.files.assets.images.insta.png
 width.fixed.px: 30
 height.fixed.px: 30
 link: https://www.instagram.com/
 open-in-new-tab: true 
 
 -- ftd.image:
-src: $assets.files.images.twitter.png
+src: $assets.files.assets.images.twitter.png
 width.fixed.px: 30
 height.fixed.px: 30
 link: https://twitter.com/sreejitaduttaa
